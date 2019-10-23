@@ -34,6 +34,7 @@ nav ul{
 	list-style-type: none;
 	font-family:"Helvetica Neue";
 	font-size: 16px;
+	position: sticky;
 }
 nav ul li{
 	padding: 0 4em;
