@@ -16,6 +16,11 @@ html, body {
 	height: 100%;
 	margin: 0;
 	padding: 0 20px;
+	font-family: "Helvetica Neue";
+	font-size: 18px;
+	line-height: 26px;
+	letter-spacing: -0.2px;
+	color: #1d1d1d;
 }
 header{
 	max-width: 100%;
@@ -32,6 +37,7 @@ nav ul{
 }
 nav ul li{
 	padding: 0 4em;
+	
 }
 .q{
 	display: flex;
@@ -39,4 +45,6 @@ nav ul li{
 }
 .top a{
 	text-decoration: none;
+	padding-bottom: 4em;
+	color: black;
 }
