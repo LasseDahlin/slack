@@ -78,9 +78,13 @@ nav ul li{
 	background-color: white;
 }
 #thumb{
-	width: 500px;
-	height: 500px;
+	width: 100%;
+	height: 100%;
 }
 .collum{
 	width: 50%;
+}
+#startpic{
+	width: 100%;
+	height: 100%;
 }
