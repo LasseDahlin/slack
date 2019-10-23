@@ -37,8 +37,14 @@ nav ul{
 }
 nav ul li{
 	padding: 0 4em;
+	
 }
 .q{
 	display: flex;
 	justify-content: center;
+}
+.top a{
+	text-decoration: none;
+	margin-bottom: 4em;
+	color: black;
 }
