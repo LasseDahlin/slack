@@ -32,6 +32,7 @@ nav ul{
 }
 nav ul li{
 	padding: 0 4em;
+	
 }
 .q{
 	display: flex;
@@ -39,4 +40,5 @@ nav ul li{
 }
 .top a{
 	text-decoration: none;
+	margin-bottom: 4em;
 }
