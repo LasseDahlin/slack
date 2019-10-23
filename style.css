@@ -56,3 +56,8 @@ nav ul li{
 .wrapper{
 	padding: 10px;
 }
+.section-purple{
+	height: 100vh;
+	width: 100%;
+	background-color: #592666;	
+}
