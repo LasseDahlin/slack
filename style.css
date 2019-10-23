@@ -2,6 +2,7 @@
   text-align: center;
   font-weight: 800;
   font-size: 3.8em;
+  font-family: "Helvetica Neue";
   text-transform: uppercase;
   letter-spacing: 0.5em;
 }
@@ -26,8 +27,8 @@ header{
 nav ul{
 	display: flex;
 	list-style-type: none;
-	font-family:"";
-	font-size: 1em;
+	font-family:"Helvetica Neue";
+	font-size: 16px;
 }
 nav ul li{
 	padding: 0 4em;
