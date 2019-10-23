@@ -37,6 +37,6 @@ nav ul li{
 	display: flex;
 	justify-content: center;
 }
-.top{
+.top a{
 	text-decoration: none;
 }
