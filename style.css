@@ -1,0 +1,33 @@
+.ml15 {
+  font-weight: 800;
+  font-size: 3.8em;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+}
+
+.ml15 .word {
+  display: inline-block;
+  line-height: 1em;
+}
+html, body {
+	width: 90%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+header{
+	max-width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+}
+nav ul{
+	display: flex;
+	list-style-type: none;
+	font-family:"";
+	font-size: 1em;
+}
+nav ul li{
+	padding: 0 4em;
+}
