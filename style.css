@@ -69,6 +69,7 @@ nav ul li{
 .bottom{
 	list-style-type: none;
 	margin-top: 2em;
+	text-align: center;
 }
 .bye{
 	color: white;
@@ -80,8 +81,8 @@ nav ul li{
 	background-color: white;
 }
 #thumb{
-	width: 100%;
-	height: 100%;
+	width: 90%;
+	height: 90%;
 	padding-top: 3em;
 }
 .collum{
@@ -125,3 +126,8 @@ nav ul li{
 	height: 18%;
 justify-items: center;
 }
+
+#icon{
+	justify-content: center;
+}
+
