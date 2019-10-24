@@ -125,9 +125,11 @@ nav ul li{
 	text-align: center;
 }
 #movie{
-	width: 20%;
-	height: 20%;
-	align-content: center;
+
+	width: 15%;
+	height: 15%;
+justify-items: center;
+
 }
 #icon{
 	justify-content: center;
