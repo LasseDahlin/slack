@@ -101,7 +101,7 @@ nav ul li{
 }
 #solution{
 	font-size: 2.5em;
-	justify-items: center;
+	justify-content: center;
 }
 #issue{
 	font-size: 2.5em;
@@ -109,5 +109,5 @@ nav ul li{
 }
 #motivation{
 	font-size: 2.5em;
-	justify-content: center;
+	text-align: center;
 }
