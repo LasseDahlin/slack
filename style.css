@@ -107,7 +107,6 @@ nav ul li{
 	margin-top: 3em;
 	padding: 10px;
 	
-	
 }
 #solution{
 	padding-top: 0.5em;
@@ -137,6 +136,8 @@ nav ul li{
 .icon{
 	height: 80px;
 	justify-content: center;
+	padding-left: 4em;
+
 }
 #bild {
 	position: absolute;
