@@ -65,11 +65,12 @@ nav ul li{
 .bottom a{
 	text-decoration: none;
 	color: white;
+	text-align: center;
 }
 .bottom{
 	list-style-type: none;
 	margin-top: 2em;
-	text-align: center;
+	
 }
 .bye{
 	color: white;
@@ -106,23 +107,19 @@ nav ul li{
 	background-color: #F5F5F5;
 }
 #solution{
-	padding-top: 2.5em;
-	font-size: 2.5em;
+	font-size: 1.5em;
 	text-align: center;
 }
 #issue{
-	padding-top: 2.5em;
-	font-size: 2.5em;
+	font-size: 1.5em;
 	text-align: center;
 }
 #motivation{
-	padding-top: 2.5em;
-	font-size: 2.5em;
+	font-size: 1.5em;
 	text-align: center;
 }
 #film{
-	padding-top: 2.5em;
-	font-size: 2.5em;
+	font-size: 1.5em;
 	text-align: center;
 }
 #movie{
