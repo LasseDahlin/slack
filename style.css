@@ -131,7 +131,7 @@ nav ul li{
 
 
 }
-#icon{
+.icon{
 	height: 80px;
-	padding-left: 1em;
+	justify-content: center;
 }
