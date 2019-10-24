@@ -125,7 +125,7 @@ nav ul li{
 #movie{
 	width: 15%;
 	height: 15%;
-justify-items: center;
+	justify-content: center;
 }
 
 #icon{
