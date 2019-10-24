@@ -72,6 +72,7 @@ nav ul li{
 .bottom{
 	list-style-type: none;
 	margin-top: 2em;
+	justify-content: center;
 }
 .bye{
 	color: white;
