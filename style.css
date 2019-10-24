@@ -68,12 +68,11 @@ nav ul li{
 	text-decoration: none;
 	color: white;
 	text-align: center;
-	display: inline;
 }
 .bottom{
 	list-style-type: none;
 	margin-top: 2em;
-	
+	display: inline;
 }
 .bye{
 	color: white;
