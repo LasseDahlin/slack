@@ -122,11 +122,9 @@ nav ul li{
 	text-align: center;
 }
 #movie{
-
+	position: relative;
 	width: 15%;
 	height: 15%;
-
-	justify-content: center;
 }
 
 
