@@ -110,21 +110,7 @@ nav ul li{
 	
 }
 #solution{
-<<<<<<< HEAD
-	font-size: 1.5em;
-	text-align: center;
-}
-#issue{
-	font-size: 1.5em;
-	text-align: center;
-}
-#motivation{
-	font-size: 1.5em;
-	text-align: center;
-}
-#film{
-	font-size: 1.5em;
-=======
+
 	padding-top: 0.5em;
 	font-size: 2.5em;
 	text-align: center;
@@ -142,24 +128,14 @@ nav ul li{
 #film{
 	padding-top: 0.5em;
 	font-size: 2.5em;
->>>>>>> 972623d1405e327968f47e9abbcd7d156ae14420
+
 	text-align: center;
 }
 #movie{
-<<<<<<< HEAD
+
 	width: 15%;
 	
 justify-content: center;
-}
-
-#icon{
-	justify-content: center;
-}
-	height: 80px;
-}
-=======
-	position: relative;
-	height: 15%;
 }
 
 .icon{
@@ -173,4 +149,4 @@ justify-content: center;
 	top: 0;
 	left: 0;
 }
->>>>>>> 767fe1c42d297f437d7dc2276eb557e2d6c6a31b
+
