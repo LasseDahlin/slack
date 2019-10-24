@@ -57,6 +57,11 @@ nav ul li{
 .wrapper{
 	display: flex;
 }
+.wrapper2{
+	position: relative;
+	width: 600px;
+	height: 1000px;
+	}
 .section-purple{
 	height: 30vh;
 	width: 100%;
@@ -75,6 +80,7 @@ nav ul li{
 .bye{
 	color: white;
 	text-align: center;
+	padding-top: .1em;
 }
 .section-white{
 	height: 100vh;
@@ -140,6 +146,7 @@ nav ul li{
 	text-align: center;
 }
 #movie{
+<<<<<<< HEAD
 	width: 15%;
 	
 justify-content: center;
@@ -150,3 +157,20 @@ justify-content: center;
 }
 	height: 80px;
 }
+=======
+	position: relative;
+	height: 15%;
+}
+
+.icon{
+	height: 80px;
+	justify-content: center;
+	padding-left: 4em;
+
+}
+#bild {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+>>>>>>> 767fe1c42d297f437d7dc2276eb557e2d6c6a31b
