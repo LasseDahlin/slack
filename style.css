@@ -137,4 +137,9 @@ nav ul li{
 	height: 80px;
 	justify-content: center;
 	padding-left: 3em;
+
 }
+#bild {
+	position: absolute;
+	top: 0;
+	left: 0;
