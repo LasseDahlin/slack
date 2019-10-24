@@ -100,5 +100,14 @@ nav ul li{
 	margin-top: 4em;
 }
 #solution{
-	font-size: 3.5em;
+	font-size: 2.5em;
+	justify-content: center;
+}
+#issue{
+	font-size: 2.5em;
+	justify-content: center;
+}
+#motivation{
+	font-size: 2.5em;
+	justify-content: center;
 }
