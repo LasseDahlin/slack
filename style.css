@@ -78,8 +78,9 @@ nav ul li{
 	background-color: white;
 }
 #thumb{
-	width: 118%;
-	height: 118%;
+	width: 100%;
+	height: 100%;
+	padding-top: 3em;
 }
 .collum{
 	padding-right: 10px;
@@ -93,4 +94,20 @@ nav ul li{
 	width: 105%;
 	height: 105%;
 	padding-right: 10em;
+}
+.collum-5{
+	width: 20%;
+	margin-top: 4em;
+}
+#solution{
+	font-size: 2.5em;
+	justify-content: center;
+}
+#issue{
+	font-size: 2.5em;
+	justify-content: center;
+}
+#motivation{
+	font-size: 2.5em;
+	text-align: center;
 }
