@@ -68,6 +68,7 @@ nav ul li{
 	text-decoration: none;
 	color: white;
 	text-align: center;
+	display: inline;
 }
 .bottom{
 	list-style-type: none;
