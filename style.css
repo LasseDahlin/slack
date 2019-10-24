@@ -128,7 +128,10 @@ nav ul li{
 
 	width: 15%;
 	height: 15%;
-justify-items: center;
+
+	justify-content: center;
+}
+
 
 }
 #icon{
