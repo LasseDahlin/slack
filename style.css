@@ -146,5 +146,7 @@ nav ul li{
 .movie{
 	padding-left: 38%;
 	position: relative;
+}
+.mov{
 	height: 75vh;
 }
