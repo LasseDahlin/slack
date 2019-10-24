@@ -133,5 +133,5 @@ nav ul li{
 
 }
 #icon{
-	float: center;
+	justify-content: center;
 }
