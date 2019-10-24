@@ -9,7 +9,7 @@
 
 .ml15 .word {
   display: inline-block;
-  line-height: 2.5em;
+  line-height: 1em;
 }
 html, body {
 	width: 100%;
