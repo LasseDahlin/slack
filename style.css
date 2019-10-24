@@ -70,6 +70,7 @@ nav ul li{
 .bottom a{
 	text-decoration: none;
 	color: white;
+	text-align: center;
 }
 .bottom{
 	list-style-type: none;
@@ -78,6 +79,7 @@ nav ul li{
 .bye{
 	color: white;
 	text-align: center;
+	padding-top: .1em;
 }
 .section-white{
 	height: 100vh;
@@ -104,7 +106,7 @@ nav ul li{
 	width: 20%;
 	margin-top: 3em;
 	padding: 10px;
-	background-color: #F5F5F5;
+	color: #F5F5F5;
 	
 }
 #solution{
@@ -132,8 +134,6 @@ nav ul li{
 	height: 15%;
 }
 
-
-}
 .icon{
 	height: 80px;
 	justify-content: center;
