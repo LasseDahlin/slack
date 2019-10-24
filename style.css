@@ -120,3 +120,8 @@ nav ul li{
 	font-size: 2.5em;
 	text-align: center;
 }
+#movie{
+	width: 20%;
+	height: 20%;
+	align-content: center;
+}
