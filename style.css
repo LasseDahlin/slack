@@ -138,3 +138,8 @@ nav ul li{
 	height: 80px;
 	justify-content: center;
 }
+#bild {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
