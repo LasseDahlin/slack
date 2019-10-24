@@ -101,4 +101,13 @@ nav ul li{
 }
 #solution{
 	font-size: 2.5em;
+	justify-content: center;
+}
+#issue{
+	font-size: 2.5em;
+	justify-content: center;
+}
+#motivation{
+	font-size: 2.5em;
+	justify-content: center;
 }
