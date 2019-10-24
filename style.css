@@ -10,6 +10,7 @@
 .ml15 .word {
   display: inline-block;
   line-height: 1em;
+  padding-top: 6em;
 }
 html, body {
 	width: 100%;
