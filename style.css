@@ -146,7 +146,7 @@ justify-content: center;
 }
 .bild {
 	position: absolute;
-	align-content: center;
+	padding: 50%;
 	height: 75vh;
 }
 
