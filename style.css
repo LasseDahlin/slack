@@ -155,3 +155,6 @@ a:hover {
 	padding-top:6.25em;
 	padding-left: 2.9em;
 }
+#logo{
+	justify-content: center;
+}
